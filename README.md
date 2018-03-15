@@ -10,6 +10,16 @@
 # 09.
 # 10.
 
+# 40.
+# 41.
+# 42.
+# 43.
+# 44.
+# 45. Snake https://github.com/rozwadowski/python-programming-challenge/tree/master/snake
+# 46.
+# 47.
+# 48.
+# 49.
 # 50.
 # 51.
 # 52.
