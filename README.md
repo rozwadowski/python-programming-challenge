@@ -10,6 +10,8 @@
 # 09.
 # 10.
 
+# 23. Maze generator & solver
+
 # 40.
 # 41. ASCII Clock https://github.com/rozwadowski/python-programming-challenge/tree/master/ascii_clock
 # 42.
