@@ -10,7 +10,17 @@
 # 09.
 # 10.
 
-# 23. Maze generator & solver
+# 20.
+# 21.
+# 22.
+# 23. Maze generator & solver https://github.com/rozwadowski/python-programming-challenge/tree/master/maze
+# 24.
+# 25.
+# 26.
+# 27.
+# 28.
+# 29.
+# 30.
 
 # 40.
 # 41. ASCII Clock https://github.com/rozwadowski/python-programming-challenge/tree/master/ascii_clock
