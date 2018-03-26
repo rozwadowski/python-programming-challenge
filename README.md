@@ -17,7 +17,7 @@
 # 24.
 # 25.
 # 26.
-# 27.
+# 27. Fibonacci sequence https://github.com/rozwadowski/python-programming-challenge/tree/master/fibonacci_sequence
 # 28.
 # 29.
 # 30.
