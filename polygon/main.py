@@ -1,12 +1,6 @@
 import matplotlib.pyplot as plt
 from numpy import sin,cos,radians
 
-	
-def polygon(s):
-	result = ""
-	for i in range(len(s)-1,-1,-1):
-		result = result + s[i]
-	return result
 
 class polygon(object):
 	def __init__(self,v = [0,0]):
