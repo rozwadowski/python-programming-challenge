@@ -51,3 +51,5 @@
 # 58.
 # 59.
 # 60.
+
+# 80. Polygon: define, translate, rotate https://github.com/rozwadowski/python-programming-challenge/tree/master/polygon
