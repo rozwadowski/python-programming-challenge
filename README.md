@@ -14,7 +14,7 @@
 # 13.
 # 14.
 # 15. Reverse a string https://github.com/rozwadowski/python-programming-challenge/tree/master/reverse_string
-# 16. File explorer https://github.com/rozwadowski/python-programming-challenge/tree/master/fileexplorer
+# 16. File explorer (with image viewer and mp3 player) https://github.com/rozwadowski/python-programming-challenge/tree/master/fileexplorer
 # 17.
 # 18.
 # 19.
@@ -38,7 +38,7 @@
 # 37.
 # 38.
 # 39.
-# 40.
+# 40. Image viewer in file explorer https://github.com/rozwadowski/python-programming-challenge/tree/master/fileexplorer
 # 41. ASCII Clock https://github.com/rozwadowski/python-programming-challenge/tree/master/ascii_clock
 # 42.
 # 43.
