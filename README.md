@@ -14,7 +14,7 @@
 # 13.
 # 14.
 # 15. Reverse a string https://github.com/rozwadowski/python-programming-challenge/tree/master/reverse_string
-# 16.
+# 16. File explorer https://github.com/rozwadowski/python-programming-challenge/tree/master/fileexplorer
 # 17.
 # 18.
 # 19.
