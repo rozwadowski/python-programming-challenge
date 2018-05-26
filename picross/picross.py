@@ -98,6 +98,8 @@ class Game(object):
         window.blit(Font2.render("r - reset level",True,white),(10,20))      
         window.blit(Font2.render("> - next level",True,white),(10,45))  
         window.blit(Font2.render("< - previous level",True,white),(10,70))   
+        window.blit(Font2.render("s - solver",True,white),(10,105))   
+
     
     def event(self):
         if 200 < mouse.get_pos()[0] < res[0]-10 and 200 < mouse.get_pos()[1] < res[1]-10:
