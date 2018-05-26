@@ -23,7 +23,7 @@
 # 22.
 # 23. Maze generator & solver https://github.com/rozwadowski/python-programming-challenge/tree/master/maze
 # 24.
-# 25.
+# 25. Picross & solver (heuristic) https://github.com/rozwadowski/python-programming-challenge/tree/master/picross
 # 26.
 # 27. Fibonacci sequence https://github.com/rozwadowski/python-programming-challenge/tree/master/fibonacci_sequence
 # 28.
